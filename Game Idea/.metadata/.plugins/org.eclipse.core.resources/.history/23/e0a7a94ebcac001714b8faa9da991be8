@@ -10,8 +10,4 @@ public class Game extends Canvas implements Runnable{
 	{
 		
 	}
-	
-	public static void main(String args[]){
-		new Window(800,600, "game project", new Game());
-	}
 }
